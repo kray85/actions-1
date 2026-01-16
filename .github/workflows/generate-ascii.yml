@@ -14,5 +14,5 @@ jobs:
 
             - name: Executing Shell Scoript
               run: |
-                chmod +x scii-script.sh
+                chmod +x ascii-script.sh
                 ./ascii-script.sh
