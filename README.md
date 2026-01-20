@@ -7,3 +7,5 @@
   Some random text
 
   Adding some rando text
+
+  Skipping CI process
