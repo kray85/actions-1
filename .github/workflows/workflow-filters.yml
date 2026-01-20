@@ -16,7 +16,7 @@ on:
       - opened
       - closed
     paths-ignore:
-        README.MD
+        - README.MD
     branches:
         - main
 
