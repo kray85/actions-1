@@ -24,6 +24,6 @@ on:
 jobs:
     hello:
         runs-on: 
-            ubuntu:latest
+            ubuntu-latest
         steps:
         - run: echo this workflow/job/step is executed for event type - ${{ github.event_name}}
